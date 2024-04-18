@@ -6,6 +6,6 @@ I love your perspective on programming! It's true that programming serves as a p
 <br/>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=zaselalk&color=brightgreen" alt="watching_count" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaselalk&" alt="chaminipalliyaguru" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaselalk" alt="zaselalk" />
 
 
