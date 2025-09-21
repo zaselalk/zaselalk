@@ -8,4 +8,4 @@ Welcome to collection of my open source projects! feel free to fork and create y
 
 ![](https://komarev.com/ghpvc/?username=zaselalk)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaselalk&layout=donut&langs_count=5&hide_border=true&count_private=true" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaselalk&layout=pie&langs_count=5&hide_border=true&count_private=true" alt="Top Languages">
