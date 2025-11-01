@@ -12,9 +12,6 @@ Welcome to collection of my open source projects! feel free to fork and create y
 
 # Github Ranking in Sri Lanka
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/zaselalk.svg)](https://user-badge.committers.top/sri_lanka_private/zaselalk)
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/zaselalk.svg)](https://user-badge.committers.top/sri_lanka/zasealk)
-[![committers.top badge](https://user-badge.committers.top/sri_lanka_public/zaselalk.svg)](https://user-badge.committers.top/sri_lanka_public/zaselalk)
-
 
 
 
