@@ -15,5 +15,7 @@ Welcome to collection of my open source projects! feel free to fork and create y
 # Github Ranking in Sri Lanka
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/zaselalk.svg)](https://user-badge.committers.top/sri_lanka_private/zaselalk)
 
+[![An image of @zaselalk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zaselalk)](https://holopin.io/@zaselalk)
+
 
 
